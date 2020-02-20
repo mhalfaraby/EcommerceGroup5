@@ -1,0 +1,48 @@
+
+ul li{
+    display: inline;
+    float: right;
+    margin: 20px 10px;
+
+}
+
+#aboutus{
+
+    margin-bottom: 100px;
+    margin-left:300px;
+    margin-top:100;
+
+}
+
+#people{
+    float:left;
+}
+
+#people {
+    background-color: white;
+   }
+
+   #aboutus3{
+
+    margin-left:300px;
+}
+#aboutus4 {
+
+    margin-left:300px;
+}
+
+table {
+    margin:100;
+}
+
+.aboutuscentertext{
+    text-align:center;
+}
+
+
+.arial {
+    font-family: Arial,Helvetica, sans-serif;
+  }
+
+
+
