@@ -16,7 +16,8 @@ body .data_sign_in_body{
   align-items: left;
   height: 100vh;
   text-align: center;
-  padding-top: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 
 }
 
