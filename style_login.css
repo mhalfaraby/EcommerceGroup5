@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+  padding: 15px;
+}
+
+body .data_sign_in_body{
+
+  font-family: sans-serif;
+  background: black;
+  background-image: url("mbak.jpeg");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 50% 100%;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  height: 100vh;
+  text-align: center;
+
+}
+
+.data_sign_in label {
+color: white;
+font-size: 18px bold;
+}
+
+.data_sign_in {
+ border: 5px dotted white;
+ border-radius: 15px 30px;
+ background-color: black;
+ margin: 200px;
+
+}
+
+.data_sign_in h1 {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+
+}
+
+.data_sign_in h2 {
+  color: white;
+  font-size: 20px;
+  font-weight: 100px;
+
+}
+
+body .data_sign_up_body{
+
+  font-family: sans-serif;
+  background: black;
+  background-image: url("mbak.jpeg");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 50% 100%;
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  height: 100vh;
+  text-align: center;
+
+}
+
+.data_sign_up label {
+color: white;
+font-size: 18px bold;
+}
+
+.data_sign_up {
+ border: 5px dotted white;
+ border-radius: 15px 30px;
+ background-color: black;
+ margin: 100px 300px;
+
+}
+
+.data_sign_up h1{
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+
+}
+
+.data_sign_up h2 {
+  color: white;
+  font-size: 20px;
+  font-weight: 100px;
+
+}
+
+/*h1 {
+  text-align: center;
+  padding-top: 100px;
+}
+
+body {
+background-color: white;
+font-family: arial;
+}
+
+#banner .data_login{
+    border: 7px double black;
+    border-radius: 15px 30px;
+    padding: 30px;
+    position: fixed;
+    right: 900px;
+
+    margin: 20px;
+}
+
+#image {
+  border: 7px double black;
+  border-radius: 15px 30px;
+  padding: 30px;
+  position: fixed;
+  right: 400px;
+  margin: 20px;
+}
+
+.data_login{
+background-color: white;
+border: 5px solid white;
+text-align: left;
+
+padding: 10px;
+position: relative;
+margin: 100px auto;
+background-size: cover;
+}*/
