@@ -6,11 +6,11 @@
 body .data_sign_in_body{
 
   font-family: sans-serif;
-  background: black;
+  background: white;
   background-image: url("mbak.jpeg");
   background-repeat: no-repeat;
   background-position: right;
-  background-size: 25% 100%;
+  background-size: 50% 100%;
   display: flex;
   justify-content: left;
   align-items: left;
